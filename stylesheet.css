@@ -1,0 +1,79 @@
+body
+{
+	background: #FFFFFF
+
+}
+.img-circle {
+    border-radius: 50%;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	color: #000000
+}
+h2{
+	font-family: 'Roboto', sans-serif;
+	color: #000000
+}
+p{
+	padding-right: 30%;
+	padding-left: 30%;
+    font-family: 'Raleway', Light;
+}
+
+.container3 {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle }
+
+
+.fa-heart {
+	
+}
+
+.fa {
+    padding: 15px;
+    font-size: 60px;
+    width: 17px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #FFFFFF;
+    color: black;
+    border: 1px solid #000000;
+}
+.fa-linkedin {
+    background: #FFFFFF;
+    color: black;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border: 1px solid #000000;
+}
+.fa-instagram {
+    background: #FFFFFF;
+    color: black;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border: 1px solid #000000;
+}
+.fa-github {
+    background: #FFFFFF;
+    color: black;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border: 1px solid #000000;
+}
+
+
